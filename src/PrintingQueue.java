@@ -8,6 +8,9 @@ package src;
  * @author <a href="mailto:everton.cavalcante@ufrn.br">Everton Cavalcante</a>
  */
 public class PrintingQueue {
+	/** Default constructor */
+	public PrintingQueue() { /* Empty */ }
+
 	/** Perform the printing job itself */
 	public synchronized void printJob() {
 		try {
