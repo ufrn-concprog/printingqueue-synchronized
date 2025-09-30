@@ -9,7 +9,7 @@ By implementing mutual exclusion via a synchronized method, only one printing jo
 Source code in this repository is organized as follows:
 
 ```
-+─printingqueue-semaphore       ---> Project directory
++─printingqueue-synchronized    ---> Project directory
   ├─── doc                      ---> Directory with HTML pages resulted from generated Javadoc
   └─── src                      ---> Directory with source code files
        └─── Job.java            ---> Implementation of a printing job as a thread
