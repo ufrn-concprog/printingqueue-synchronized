@@ -1,7 +1,7 @@
 package src;
 
 /**
- * Simulation of a printing queue controlled by a semaphore
+ * Simulation of a printing queue controlled by synchronized methods
  * @author <a href="mailto:everton.cavalcante@ufrn.br">Everton Cavalcante</a>
  */
 public class Main {
